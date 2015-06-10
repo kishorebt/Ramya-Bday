@@ -214,11 +214,11 @@
 
 .fancybox-title-float-wrap {
 	position: absolute;
-	bottom: 0;
-	right: 50%;
-	margin-bottom: -35px;
-	z-index: 8050;
-	text-align: center;
+bottom: -55%;
+right: 50%;
+text-align: center;
+z-index: 8050;
+margin-bottom: -55px;
 }
 
 .fancybox-title-float-wrap .child {
@@ -234,7 +234,7 @@
 	color: #FFF;
 	font-weight: bold;
 	line-height: 24px;
-	white-space: nowrap;
+	white-space: normal;
 }
 
 .fancybox-title-outside-wrap {

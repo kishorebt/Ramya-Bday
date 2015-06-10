@@ -21,6 +21,7 @@ h1,h2,h3,h4,h5,h6{
 }	
 p{
 	margin:0;
+  text-align: justify;
 }
 ul{
 margin:0;
@@ -35,12 +36,12 @@ padding:0;
 	min-height:150px;
 }
 .logo a h1{
-	color:#FF008C;
-	
+	color: #FF008C;
+	font-family: 'Playball', cursive;
 	font-family: YoureInvited;
-	font-size:2.3em;	
-	display:inline-block;
-	text-decoration:none;
+	font-size: 2.3em;
+	display: inline-block;
+	text-decoration: none;
 }
 .top-menu ul li{
 	display:inline-block;
@@ -1189,7 +1190,8 @@ span.tab-img {
   margin-bottom: 0;
 }
 .abt-pic-info p {
-  font-size: 0.95em;
+	font-size: 0.95em;
+	text-align: justify;
 }
 .testimonals h3 {
   font-size: 1.5em;
@@ -1764,7 +1766,7 @@ ul.rslides2 li p {
   bottom: 106px
 }
 .pic {
-  width: 49%;
+  width: 48%;
   margin-bottom:1em
 }
 .pic:nth-child(4),.pic:nth-child(6){
