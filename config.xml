@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Ramya Birthday</name>
+    <name>Ramya Birthday Gal</name>
     <description>
-       Ramya Birthday
+       Ramya Birthday Gal
     </description>
     <author email="kishorebt11@gmail.com" href="http://phonegap.com">
-        Ramya Birthday
+        Ramya Birthday Gal
     </author>
     <content src="arindex.html" />
     <preference name="permissions" value="none" />
