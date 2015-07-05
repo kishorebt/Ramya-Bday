@@ -858,6 +858,7 @@
 
 			body {
 				min-width: 320px;
+				
 			}
 
 			body, input, select, textarea {
@@ -959,7 +960,8 @@
 			} }
 
 /* Mobile (Portrait) */
-
+		
+		
 	@media screen and (max-width: 480px) {
 
 		/* BG */
@@ -1030,8 +1032,8 @@
 		}
 
 		#bg {
-			background-size: 85% auto;
-			width: 1800.5px;
+			background-size: 115% auto;
+			width: 1300.5px;
 			 
 		}
 
@@ -1039,4 +1041,5 @@
 
 		#header nav {
 			padding: 0 1em;
-		} }
+		} 
+		}
